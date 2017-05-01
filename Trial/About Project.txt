@@ -1,0 +1,3 @@
+Personal Project. A Fashion App (incomplete) which allows people to list their inventory and advertise their style in a social setting.
+This app was intended to allow users to see what is trending or where to find particular pieces of clothing.
+There are the base templates which will have the web page designs while the database design code will be in web server and database setup files using the flask/django framework
